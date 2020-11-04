@@ -1,0 +1,37 @@
+{
+  "name": "brandcamp",
+  "version": "1.0.0",
+  "description": "My new idea thingy",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "prettier": "prettier --config ./.prettierrc.js --ignore-path ../../.prettierignore --write \"**/*.{json,js,ts,tsx}\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run prettier",
+      "pre-push": ""
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulieScanlon/brandcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulieScanlon/brandcamp/issues"
+  },
+  "homepage": "https://github.com/PaulieScanlon/brandcamp#readme",
+  "dependencies": {
+    "gatsby": "^2.25.2",
+    "husky": "^4.3.0",
+    "prettier": "^2.1.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
