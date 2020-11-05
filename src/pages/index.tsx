@@ -3,12 +3,16 @@ import React, { FunctionComponent, useEffect, useState } from 'react'
 const IndexPage: FunctionComponent = () => {
   const [data, setData] = useState('')
 
+  // https://brandcamp.netlify.app
+
   useEffect(() => {
-    fetch('https://brandcamp.netlify.app/.netlify/functions/twitter')
+    fetch('/.netlify/functions/twitter', {
+      mode: 'no-cors',
+    })
       .then((response) => response.text())
       .then((data) => {
-        console.log('data:', data)
-        setData(data)
+        setData(JSON.parse(data))
+        console.log('data:', JSON.parse(data))
       })
       .catch((error) => {
         console.log('error: ', error)
