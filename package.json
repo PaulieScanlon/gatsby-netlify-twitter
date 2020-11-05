@@ -31,6 +31,7 @@
   },
   "homepage": "https://github.com/PaulieScanlon/brandcamp#readme",
   "dependencies": {
+    "friendly-words": "^1.1.10",
     "gatsby": "^2.25.2",
     "husky": "^4.3.0",
     "prettier": "^2.1.2",
