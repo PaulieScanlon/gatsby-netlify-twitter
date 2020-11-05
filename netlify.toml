@@ -1,0 +1,9 @@
+[build]
+  command = "yarn build && cd functions/ && yarn"
+  functions = "functions"
+  publish = "public/"
+
+[dev]
+  command = "yarn start"
+  targetPort = 8888
+  framework = "#custom"

@@ -103,11 +103,15 @@ dist
 # TernJS port file
 .tern-port
 
-# Storybook
-storybook-static
+# Gatsby build files
+public
 
 # Local Netlify folder
 .netlify
 
 # Mac stuff ?
 .DS_Store
+
+
+.env.development
+.env.production

@@ -7,8 +7,11 @@
     "develop": "gatsby develop",
     "build": "gatsby build",
     "clean": "gatsby clean",
-    "prettier": "prettier --config ./.prettierrc.js --ignore-path ../../.prettierignore --write \"**/*.{json,js,ts,tsx}\"",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "gatsby serve",
+    "start": "npm run develop",
+    "prettier": "prettier --config ./.prettierrc.js --ignore-path ./.prettierignore --write \"**/*.{json,js,ts,tsx}\"",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "netlify-lambda install"
   },
   "husky": {
     "hooks": {
@@ -33,5 +36,8 @@
     "prettier": "^2.1.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "netlify-lambda": "^1.6.3"
   }
 }

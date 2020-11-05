@@ -1,5 +1,5 @@
-import React, { FunctionComponent } from 'react';
+import React, { FunctionComponent } from 'react'
 
-const IndexPage: FunctionComponent = () => <main>Index</main>;
+const IndexPage: FunctionComponent = () => <main>Index</main>
 
-export default IndexPage;
+export default IndexPage
