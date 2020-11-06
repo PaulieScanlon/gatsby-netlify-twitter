@@ -1,0 +1,3037 @@
+[
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        }
+      ]
+    },
+    "author_id": "1151066726",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-11-05T20:40:22.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1324451356548227074"
+      }
+    ],
+    "text": "@PaulieScanlon Or you know keep the beer outside since it’s getting colder haha",
+    "possibly_sensitive": false,
+    "id": "1324451511649390593",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "65",
+          "name": "Interests and Hobbies Vertical",
+          "description": "Top level interests and hobbies groupings, like Food or Travel"
+        },
+        "entity": {
+          "id": "834828264786898945",
+          "name": "Drinks",
+          "description": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "id": "66",
+          "name": "Interests and Hobbies Category",
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+        },
+        "entity": {
+          "id": "834828445238431744",
+          "name": "Generic Drinks",
+          "description": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "id": "67",
+          "name": "Interests and Hobbies",
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+        },
+        "entity": {
+          "id": "850142258871418880",
+          "name": "Beer",
+          "description": "Beer"
+        }
+      }
+    ],
+    "conversation_id": "1324410251555254272"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        }
+      ]
+    },
+    "author_id": "1151066726",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-11-05T20:39:10.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1324450833828847622"
+      }
+    ],
+    "text": "@PaulieScanlon Well no one said you couldn’t he the 8 pints anyway as long as you have your fridge stocked you are all good 🤣",
+    "possibly_sensitive": false,
+    "id": "1324451210091503616",
+    "conversation_id": "1324410251555254272"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        }
+      ]
+    },
+    "author_id": "1151066726",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-11-05T20:36:37.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1324450307263397894"
+      }
+    ],
+    "text": "@PaulieScanlon Might as well turn this lockdown into something productive 😄",
+    "possibly_sensitive": false,
+    "id": "1324450571080912897",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "123",
+          "name": "Ongoing News Story",
+          "description": "Ongoing News Stories like 'Brexit'"
+        },
+        "entity": {
+          "id": "1220701888179359745",
+          "name": "COVID-19"
+        }
+      }
+    ],
+    "conversation_id": "1324410251555254272"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        }
+      ]
+    },
+    "author_id": "1151066726",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-11-05T20:31:51.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1324448419230961666"
+      }
+    ],
+    "text": "@PaulieScanlon Curious to see what you are going to build 😄",
+    "possibly_sensitive": false,
+    "id": "1324449371077967873",
+    "conversation_id": "1324410251555254272"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        }
+      ]
+    },
+    "author_id": "1151066726",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-11-05T20:23:16.000Z",
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1324446323542761474"
+      }
+    ],
+    "text": "@PaulieScanlon Wow that was quick haha",
+    "possibly_sensitive": false,
+    "id": "1324447209136529408",
+    "conversation_id": "1324410251555254272"
+  },
+  {
+    "author_id": "470012453",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-11-05T20:19:45.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 9,
+          "end": 32,
+          "url": "https://t.co/ZGpJE26zrT",
+          "expanded_url": "https://twitter.com/PaulieScanlon/status/1324446323542761474/photo/1",
+          "display_url": "pic.twitter.com/ZGpJE26zrT"
+        }
+      ]
+    },
+    "source": "Twitter for iPhone",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1324410251555254272"
+      }
+    ],
+    "text": "Sorted 👍 https://t.co/ZGpJE26zrT",
+    "possibly_sensitive": false,
+    "id": "1324446323542761474",
+    "conversation_id": "1324410251555254272"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "alex__luong"
+        },
+        {
+          "start": 13,
+          "end": 27,
+          "username": "PaulieScanlon"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 35,
+          "end": 38,
+          "probability": 0.9906,
+          "type": "Person",
+          "normalized_text": "Alex"
+        }
+      ]
+    },
+    "author_id": "1151066726",
+    "in_reply_to_user_id": "1327289510",
+    "created_at": "2020-11-05T19:13:04.000Z",
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1324428619100286976"
+      }
+    ],
+    "text": "@alex__luong @PaulieScanlon Thanks Alex, I'll have a look and try to do the python equivalent of that :D",
+    "possibly_sensitive": false,
+    "id": "1324429543986368513",
+    "conversation_id": "1324410251555254272"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "FabioRosado_"
+        },
+        {
+          "start": 14,
+          "end": 28,
+          "username": "PaulieScanlon"
+        }
+      ],
+      "urls": [
+        {
+          "start": 105,
+          "end": 128,
+          "url": "https://t.co/NsW8mPT6nY",
+          "expanded_url": "https://alexluong.com/blog/comprehensive-guide-to-twitter-webhook",
+          "display_url": "alexluong.com/blog/comprehen…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1324428623990804480/2kDbohFV?format=png&name=orig",
+              "width": 672,
+              "height": 389
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1324428623990804480/2kDbohFV?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Comprehensive Guide to Twitter Webhook | Alex Luong",
+          "description": "Let me show you how to build a bot using Twitter webhook",
+          "unwound_url": "https://alexluong.com/blog/comprehensive-guide-to-twitter-webhook/"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 54,
+          "end": 69,
+          "probability": 0.3248,
+          "type": "Product",
+          "normalized_text": "Twitter Webhooks"
+        }
+      ]
+    },
+    "author_id": "1327289510",
+    "in_reply_to_user_id": "1151066726",
+    "created_at": "2020-11-05T19:09:24.000Z",
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1324410934866182144"
+      }
+    ],
+    "text": "@FabioRosado_ @PaulieScanlon I wrote an article about Twitter Webhooks a while ago. Maybe this can help! https://t.co/NsW8mPT6nY",
+    "possibly_sensitive": false,
+    "id": "1324428619100286976",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Brand Category",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1324410251555254272"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        }
+      ]
+    },
+    "author_id": "3426281836",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-11-05T18:15:02.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1324410251555254272"
+      }
+    ],
+    "text": "@PaulieScanlon Tried it a month or so ago. I was asked some details about how the app would work and described it with some fancy words even though I wanted just to play with the api. I received the api keys the same day, after a couple of hours. Don’t lose hope haha",
+    "possibly_sensitive": false,
+    "id": "1324414940271226881",
+    "conversation_id": "1324410251555254272"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        }
+      ]
+    },
+    "author_id": "1151066726",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-11-05T18:03:13.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1324411689102643208"
+      }
+    ],
+    "text": "@PaulieScanlon &lt;sarcasm&gt;The docs are also still beautiful to read though &lt;/sarcasm&gt;",
+    "possibly_sensitive": false,
+    "id": "1324411965385723906",
+    "conversation_id": "1324410251555254272"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        }
+      ]
+    },
+    "author_id": "18330480",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-11-05T18:02:30.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1324411434286096384"
+      }
+    ],
+    "text": "@PaulieScanlon Don’t count on it happening quickly",
+    "possibly_sensitive": false,
+    "id": "1324411785005441026",
+    "conversation_id": "1324410251555254272"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        }
+      ]
+    },
+    "author_id": "1151066726",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-11-05T18:01:12.000Z",
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1324411191645605890"
+      }
+    ],
+    "text": "@PaulieScanlon yeah, it used just a click away and they changed it a few years ago, it's a pain now",
+    "possibly_sensitive": false,
+    "id": "1324411457015074817",
+    "conversation_id": "1324410251555254272"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        }
+      ]
+    },
+    "author_id": "18330480",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-11-05T18:00:30.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1324410251555254272"
+      }
+    ],
+    "text": "@PaulieScanlon Tried about 6 months ago and was asked to give a pretty detailed outline of how I’d specifically use their api in my application. Took a couple months to receive a second request for more info from them. Seemed crazy to me so I gave up",
+    "possibly_sensitive": false,
+    "id": "1324411283060465670",
+    "conversation_id": "1324410251555254272"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        }
+      ]
+    },
+    "author_id": "1151066726",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-11-05T17:59:07.000Z",
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1324410251555254272"
+      }
+    ],
+    "text": "@PaulieScanlon Yeah now they ask you to fill a form and await approval, I think it takes at least 2 weeks to get the access. \n\nI've been struggling with subscribing to the new twitter webhooks for events",
+    "possibly_sensitive": false,
+    "id": "1324410934866182144",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Brand Category",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "Twitter"
+        }
+      }
+    ],
+    "conversation_id": "1324410251555254272"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "spences10"
+        },
+        {
+          "start": 11,
+          "end": 25,
+          "username": "PaulieScanlon"
+        }
+      ]
+    },
+    "author_id": "1025494621164630016",
+    "in_reply_to_user_id": "4897735439",
+    "created_at": "2020-11-04T11:26:42.000Z",
+    "source": "Twitter for Android",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1323946196247994372"
+      }
+    ],
+    "text": "@spences10 @PaulieScanlon But yeah, let's do it 🕺",
+    "possibly_sensitive": false,
+    "id": "1323949790569336837",
+    "conversation_id": "1323946196247994372"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 15,
+          "end": 25,
+          "username": "spences10"
+        }
+      ]
+    },
+    "author_id": "1025494621164630016",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-11-04T11:16:41.000Z",
+    "source": "Twitter for Android",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1323947039093391364"
+      }
+    ],
+    "text": "@PaulieScanlon @spences10 I've been using v1 rc for a while now. It's lovely 😊",
+    "possibly_sensitive": false,
+    "id": "1323947271482937347",
+    "conversation_id": "1323946196247994372"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 27,
+          "end": 41,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 42,
+          "end": 56,
+          "username": "studio_hungry"
+        }
+      ],
+      "urls": [
+        {
+          "start": 159,
+          "end": 182,
+          "url": "https://t.co/hQ9IFdEujt",
+          "expanded_url": "https://twitter.com/thesegunadebayo/status/1323921883478315011",
+          "display_url": "twitter.com/thesegunadebay…"
+        }
+      ]
+    },
+    "author_id": "4897735439",
+    "created_at": "2020-11-04T11:12:25.000Z",
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 10,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1323921883478315011"
+      }
+    ],
+    "text": "Wheeeeeeeeeeeeeeeeeeee\n\nYo @PaulieScanlon @studio_hungry wither of you want to do a video on this?\n\nAn intro, get started, w/ Gatsby, Next and vanilla React?? https://t.co/hQ9IFdEujt",
+    "possibly_sensitive": false,
+    "id": "1323946196247994372",
+    "conversation_id": "1323946196247994372"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        }
+      ]
+    },
+    "author_id": "150192980",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-11-04T07:42:16.000Z",
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1323760013530304515"
+      }
+    ],
+    "text": "@PaulieScanlon No more bloated up libraries just for a calendar.",
+    "possibly_sensitive": false,
+    "id": "1323893308922466304",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "66",
+          "name": "Interests and Hobbies Category",
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+        },
+        "entity": {
+          "id": "1237451423790403584",
+          "name": "Libraries"
+        }
+      }
+    ],
+    "conversation_id": "1323760013530304515"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 8,
+          "username": "ravavyr"
+        },
+        {
+          "start": 9,
+          "end": 23,
+          "username": "PaulieScanlon"
+        }
+      ],
+      "urls": [
+        {
+          "start": 80,
+          "end": 103,
+          "url": "https://t.co/RreBTcX8yX",
+          "expanded_url": "https://www.gatsbyjs.com/use-cases/",
+          "display_url": "gatsbyjs.com/use-cases/",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1323739616428527617/WaUtjlkv?format=jpg&name=orig",
+              "width": 1600,
+              "height": 836
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1323739616428527617/WaUtjlkv?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Use Cases",
+          "description": "Gatsby is used by organizations of all shapes and sizes for building every kind of website and app imaginable.",
+          "unwound_url": "https://www.gatsbyjs.com/use-cases/"
+        }
+      ]
+    },
+    "author_id": "3227338044",
+    "in_reply_to_user_id": "1058141731835863040",
+    "created_at": "2020-11-03T21:31:30.000Z",
+    "source": "TweetDeck",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1323667140537438209"
+      }
+    ],
+    "text": "@ravavyr @PaulieScanlon Check out our use cases page for a bunch more examples. https://t.co/RreBTcX8yX",
+    "possibly_sensitive": false,
+    "id": "1323739607247151104",
+    "conversation_id": "1323666227064147971"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 15,
+          "end": 26,
+          "username": "RiaCorpeno"
+        }
+      ]
+    },
+    "author_id": "757202329141731332",
+    "in_reply_to_user_id": "757202329141731332",
+    "created_at": "2020-11-03T18:45:17.000Z",
+    "source": "Twitter for Android",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1323680900547334144"
+      }
+    ],
+    "text": "@PaulieScanlon @RiaCorpeno What is your country?",
+    "possibly_sensitive": false,
+    "id": "1323697774454517761",
+    "conversation_id": "1323499500506402818"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 15,
+          "end": 24,
+          "username": "GatsbyJS"
+        }
+      ],
+      "urls": [
+        {
+          "start": 179,
+          "end": 202,
+          "url": "https://t.co/XDMdQ0vhmn",
+          "expanded_url": "https://shoelace.style/",
+          "display_url": "shoelace.style",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1323696471418556416/Mi_DcIy1?format=png&name=orig",
+              "width": 600,
+              "height": 449
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1323696471418556416/Mi_DcIy1?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Shoelace",
+          "description": "Shoelace provides a collection of professionally designed, every day UI components built on a framework-agnostic technology.",
+          "unwound_url": "https://shoelace.style/"
+        }
+      ]
+    },
+    "author_id": "1058141731835863040",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-11-03T18:40:05.000Z",
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1323695191316942848"
+      }
+    ],
+    "text": "@PaulieScanlon @GatsbyJS Ah, i don't design but i do CSS :)\nI mean i work with designers who create the designs and I implement them. \nTailwind's alright, a friend of mine create https://t.co/XDMdQ0vhmn recently, personally I don't use 'em, they look nice, but with custom designs they often don't match.",
+    "possibly_sensitive": false,
+    "id": "1323696466339237891",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "65",
+          "name": "Interests and Hobbies Vertical",
+          "description": "Top level interests and hobbies groupings, like Food or Travel"
+        },
+        "entity": {
+          "id": "848920371311001600",
+          "name": "Technology",
+          "description": "Technology and computing"
+        }
+      },
+      {
+        "domain": {
+          "id": "66",
+          "name": "Interests and Hobbies Category",
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+        },
+        "entity": {
+          "id": "898673391980261376",
+          "name": "Web development",
+          "description": "Web Development"
+        }
+      },
+      {
+        "domain": {
+          "id": "65",
+          "name": "Interests and Hobbies Vertical",
+          "description": "Top level interests and hobbies groupings, like Food or Travel"
+        },
+        "entity": {
+          "id": "847868745150119936",
+          "name": "Home & family",
+          "description": "Hobbies and interests"
+        }
+      },
+      {
+        "domain": {
+          "id": "66",
+          "name": "Interests and Hobbies Category",
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+        },
+        "entity": {
+          "id": "847872720331079681",
+          "name": "Design",
+          "description": "Design"
+        }
+      }
+    ],
+    "conversation_id": "1323666227064147971"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 15,
+          "end": 26,
+          "username": "RiaCorpeno"
+        }
+      ]
+    },
+    "author_id": "757202329141731332",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-11-03T17:38:14.000Z",
+    "source": "Twitter for Android",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1323527932548157440"
+      }
+    ],
+    "text": "@PaulieScanlon @RiaCorpeno Nobody gets out sober🤣🤣🤣",
+    "possibly_sensitive": false,
+    "id": "1323680900547334144",
+    "conversation_id": "1323499500506402818"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 15,
+          "end": 24,
+          "username": "GatsbyJS"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 153,
+          "end": 158,
+          "probability": 0.3863,
+          "type": "Person",
+          "normalized_text": "Gatsby"
+        }
+      ]
+    },
+    "author_id": "1058141731835863040",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-11-03T17:28:09.000Z",
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1323677446525358080"
+      }
+    ],
+    "text": "@PaulieScanlon @GatsbyJS lol, the only problem is, I don't design, I just build :)\nI've worked with React some, not a lot, just haven't gotten around to Gatsby yet.",
+    "possibly_sensitive": false,
+    "id": "1323678365476413440",
+    "conversation_id": "1323666227064147971"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 15,
+          "end": 24,
+          "username": "GatsbyJS"
+        }
+      ]
+    },
+    "author_id": "1058141731835863040",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-11-03T17:05:39.000Z",
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1323668323813515268"
+      }
+    ],
+    "text": "@PaulieScanlon @GatsbyJS Cool, will check those out. I still feel most of them look blocky or have the same [left/right column with a blog column next to it] look. \nFew people seem to be doing more complex layouts with it. [different shapes, overlapping elements, that kinda stuff]",
+    "possibly_sensitive": false,
+    "id": "1323672701551169541",
+    "conversation_id": "1323666227064147971"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 15,
+          "end": 24,
+          "username": "GatsbyJS"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 44,
+          "end": 49,
+          "probability": 0.3398,
+          "type": "Other",
+          "normalized_text": "Gatsby"
+        }
+      ]
+    },
+    "author_id": "1058141731835863040",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-11-03T16:43:33.000Z",
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 3,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1323666227064147971"
+      }
+    ],
+    "text": "@PaulieScanlon @GatsbyJS I like the idea of Gatsby, have yet to use it, not enough time to add it to the pile of new things to learn just yet, but has anyone ever seen a Gatsby site that doesn't look just like the main gatsby blog? :)\nAre there complex sites built with it?",
+    "possibly_sensitive": false,
+    "id": "1323667140537438209",
+    "conversation_id": "1323666227064147971"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 17,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 19,
+          "end": 30,
+          "username": "RiaCorpeno"
+        }
+      ],
+      "urls": [
+        {
+          "start": 66,
+          "end": 89,
+          "url": "https://t.co/lpqK9iMi2Y",
+          "expanded_url": "https://twitter.com/PaulieScanlon/status/1323527932548157440/photo/1",
+          "display_url": "pic.twitter.com/lpqK9iMi2Y"
+        }
+      ]
+    },
+    "author_id": "759891324",
+    "created_at": "2020-11-03T08:26:32.000Z",
+    "source": "Twitter for Android",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1323527932548157440"
+      }
+    ],
+    "text": "RT @PaulieScanlon: @RiaCorpeno 1 screen and no more than 3 pints. https://t.co/lpqK9iMi2Y",
+    "possibly_sensitive": false,
+    "id": "1323542060801011712",
+    "conversation_id": "1323542060801011712"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 15,
+          "end": 26,
+          "username": "RiaCorpeno"
+        }
+      ]
+    },
+    "author_id": "759891324",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-11-03T08:26:20.000Z",
+    "source": "Twitter for Android",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1323527932548157440"
+      }
+    ],
+    "text": "@PaulieScanlon @RiaCorpeno 🤣🤣 I love the sign on the background.",
+    "possibly_sensitive": false,
+    "id": "1323542011757039616",
+    "conversation_id": "1323499500506402818"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 15,
+          "end": 26,
+          "username": "RiaCorpeno"
+        }
+      ],
+      "urls": [
+        {
+          "start": 38,
+          "end": 61,
+          "url": "https://t.co/Xl0sdPswng",
+          "expanded_url": "https://twitter.com/hhg2288/status/1323535390662397953/photo/1",
+          "display_url": "pic.twitter.com/Xl0sdPswng"
+        }
+      ]
+    },
+    "author_id": "24702345",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-11-03T08:00:01.000Z",
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1323527932548157440"
+      }
+    ],
+    "text": "@PaulieScanlon @RiaCorpeno Cheers!! 🍻 https://t.co/Xl0sdPswng",
+    "possibly_sensitive": false,
+    "id": "1323535390662397953",
+    "conversation_id": "1323499500506402818"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "RiaCorpeno"
+        }
+      ],
+      "urls": [
+        {
+          "start": 47,
+          "end": 70,
+          "url": "https://t.co/lpqK9iMi2Y",
+          "expanded_url": "https://twitter.com/PaulieScanlon/status/1323527932548157440/photo/1",
+          "display_url": "pic.twitter.com/lpqK9iMi2Y"
+        }
+      ]
+    },
+    "author_id": "470012453",
+    "in_reply_to_user_id": "353145255",
+    "created_at": "2020-11-03T07:30:23.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 1,
+      "reply_count": 3,
+      "like_count": 11,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1323499500506402818"
+      }
+    ],
+    "text": "@RiaCorpeno 1 screen and no more than 3 pints. https://t.co/lpqK9iMi2Y",
+    "possibly_sensitive": false,
+    "id": "1323527932548157440",
+    "conversation_id": "1323499500506402818"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        }
+      ]
+    },
+    "author_id": "14228668",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-10-31T18:43:47.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322482039396945922"
+      }
+    ],
+    "text": "@PaulieScanlon Wow, that’s fantastic! 94% coverage 😮",
+    "possibly_sensitive": false,
+    "id": "1322610235584884737",
+    "conversation_id": "1322200073854332929"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        }
+      ]
+    },
+    "author_id": "10044152",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-10-31T13:57:43.000Z",
+    "source": "Twitter for Android",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322335416679366657"
+      }
+    ],
+    "text": "@PaulieScanlon Recruiters not so much I think but when the team gets involved, they're usually very interested in this kind of stuff.",
+    "possibly_sensitive": false,
+    "id": "1322538242680434689",
+    "conversation_id": "1322335416679366657"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "samjulien"
+        }
+      ],
+      "urls": [
+        {
+          "start": 227,
+          "end": 250,
+          "url": "https://t.co/jGh2VcbUhs",
+          "expanded_url": "http://www.mdx-embed.com",
+          "display_url": "mdx-embed.com",
+          "status": 400,
+          "unwound_url": "http://www.mdx-embed.com"
+        },
+        {
+          "start": 252,
+          "end": 275,
+          "url": "https://t.co/MJy9K1vrPT",
+          "expanded_url": "https://github.com/PaulieScanlon/mdx-embed/issues/71",
+          "display_url": "github.com/PaulieScanlon/…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1320823957591887872/pKAvtY_Z?format=jpg&name=orig",
+              "width": 1080,
+              "height": 608
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1320823957591887872/pKAvtY_Z?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Testing Umbrella Issue - Hacktoberfest · Issue #71 · PaulieScanlon/mdx-embed",
+          "description": "⛱️ Testing Umbrella Issue - Hacktoberfest The time is right. We're now on to the last leg of the migration and something i never got round to in the old repo was adding a test suite. 🚀 Gett...",
+          "unwound_url": "https://github.com/PaulieScanlon/mdx-embed/issues/71"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 78,
+          "end": 82,
+          "tag": "MDX"
+        },
+        {
+          "start": 104,
+          "end": 118,
+          "tag": "Hacktoberfest"
+        },
+        {
+          "start": 119,
+          "end": 137,
+          "tag": "Hacktoberfest2020"
+        }
+      ]
+    },
+    "author_id": "470012453",
+    "in_reply_to_user_id": "14228668",
+    "created_at": "2020-10-31T10:14:23.000Z",
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 3,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322200073854332929"
+      }
+    ],
+    "text": "@samjulien Myself and a handful of wonderful contributors closed 76 issues on #MDX Embed for this years #Hacktoberfest #Hacktoberfest2020 \n\nAs of today we have 94% code coverage and are almost ready to release a stable v1.0.0\n\nhttps://t.co/jGh2VcbUhs\n\nhttps://t.co/MJy9K1vrPT",
+    "possibly_sensitive": false,
+    "id": "1322482039396945922",
+    "conversation_id": "1322200073854332929"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        }
+      ]
+    },
+    "author_id": "15353121",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-10-31T01:44:07.000Z",
+    "source": "Tweetbot for iΟS",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "geo": {
+      "place_id": "2b6ff8c22edd9576"
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322335416679366657"
+      }
+    ],
+    "text": "@PaulieScanlon Dunno about HR but the projects and publications part is my favorite about any candidate I’m about to interview",
+    "possibly_sensitive": false,
+    "id": "1322353626296115200",
+    "conversation_id": "1322335416679366657"
+  },
+  {
+    "author_id": "470012453",
+    "created_at": "2020-10-31T00:31:45.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 256,
+          "end": 279,
+          "url": "https://t.co/3jhx2gKoUD",
+          "expanded_url": "https://github.com/PaulieScanlon/mdx-embed/issues/122",
+          "display_url": "github.com/PaulieScanlon/…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1322335423063052290/t8XwkYnf?format=jpg&name=orig",
+              "width": 1080,
+              "height": 608
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1322335423063052290/t8XwkYnf?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "twitch-integration-test · Issue #122 · PaulieScanlon/mdx-embed",
+          "description": "Hooray 🎉 thanks for your interest in MDX Embed If you'd like to contribute by writing this test please have a read of: The Umbrella Issue The Acceptance Criteria for Integration Tests",
+          "unwound_url": "https://github.com/PaulieScanlon/mdx-embed/issues/122"
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 11,
+      "quote_count": 0
+    },
+    "text": "Do hiring manages ever look further than a CV / Resume? Just wondering if putting links to open source collaboration could be used as a litmus test 🤔\n\nI'm quite pleased with this as it shows how i problem solve and how i collaborate with other developers.\nhttps://t.co/3jhx2gKoUD",
+    "possibly_sensitive": false,
+    "id": "1322335416679366657",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "65",
+          "name": "Interests and Hobbies Vertical",
+          "description": "Top level interests and hobbies groupings, like Food or Travel"
+        },
+        "entity": {
+          "id": "848920371311001600",
+          "name": "Technology",
+          "description": "Technology and computing"
+        }
+      },
+      {
+        "domain": {
+          "id": "66",
+          "name": "Interests and Hobbies Category",
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+        },
+        "entity": {
+          "id": "848921413196984320",
+          "name": "Computer programming",
+          "description": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "id": "65",
+          "name": "Interests and Hobbies Vertical",
+          "description": "Top level interests and hobbies groupings, like Food or Travel"
+        },
+        "entity": {
+          "id": "848920371311001600",
+          "name": "Technology",
+          "description": "Technology and computing"
+        }
+      },
+      {
+        "domain": {
+          "id": "66",
+          "name": "Interests and Hobbies Category",
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+        },
+        "entity": {
+          "id": "848921413196984320",
+          "name": "Computer programming",
+          "description": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "id": "66",
+          "name": "Interests and Hobbies Category",
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+        },
+        "entity": {
+          "id": "849075430715936768",
+          "name": "Open source",
+          "description": "Open source"
+        }
+      }
+    ],
+    "conversation_id": "1322335416679366657"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "spences10"
+        },
+        {
+          "start": 11,
+          "end": 25,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 26,
+          "end": 40,
+          "username": "studio_hungry"
+        },
+        {
+          "start": 41,
+          "end": 51,
+          "username": "stolinski"
+        },
+        {
+          "start": 52,
+          "end": 59,
+          "username": "wesbos"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 92,
+          "end": 96,
+          "probability": 0.9709,
+          "type": "Person",
+          "normalized_text": "Scott"
+        }
+      ]
+    },
+    "author_id": "1151066726",
+    "in_reply_to_user_id": "4897735439",
+    "created_at": "2020-10-30T19:57:08.000Z",
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322264242855333888"
+      }
+    ],
+    "text": "@spences10 @PaulieScanlon @studio_hungry @stolinski @wesbos This is awesome congratulations Scott!",
+    "possibly_sensitive": false,
+    "id": "1322266307111301131",
+    "conversation_id": "1322231833027878912"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 185,
+          "end": 199,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 204,
+          "end": 218,
+          "username": "studio_hungry"
+        },
+        {
+          "start": 243,
+          "end": 253,
+          "username": "stolinski"
+        },
+        {
+          "start": 258,
+          "end": 265,
+          "username": "wesbos"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 100,
+          "end": 108,
+          "probability": 0.7187,
+          "type": "Other",
+          "normalized_text": "Halloween"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 34,
+          "end": 52,
+          "tag": "Hacktoberfest2020"
+        }
+      ]
+    },
+    "author_id": "4897735439",
+    "in_reply_to_user_id": "4897735439",
+    "created_at": "2020-10-30T19:48:56.000Z",
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 9,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322231833027878912"
+      }
+    ],
+    "text": "I was on the show!!1\n\nI plugged a #Hacktoberfest2020 success story with MDX Embed (or MDX EmDed for Halloween!! 😂) \n\nGoing from 0 to 94% test coverage!!\n\nOn the way to a v1 release now @PaulieScanlon and @studio_hungry 🕺\n\nThanks for having me @stolinski and @wesbos 👍",
+    "possibly_sensitive": false,
+    "id": "1322264242855333888",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "119",
+          "name": "Holiday",
+          "description": "Holidays like Christmas or Halloween"
+        },
+        "entity": {
+          "id": "1162465817822261248",
+          "name": "Halloween 2019"
+        }
+      }
+    ],
+    "conversation_id": "1322231833027878912"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "spences10"
+        },
+        {
+          "start": 11,
+          "end": 25,
+          "username": "PaulieScanlon"
+        }
+      ]
+    },
+    "author_id": "1025494621164630016",
+    "in_reply_to_user_id": "4897735439",
+    "created_at": "2020-10-30T19:11:41.000Z",
+    "source": "Twitter for Android",
+    "lang": "und",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322252223980687361"
+      }
+    ],
+    "text": "@spences10 @PaulieScanlon 🕺",
+    "possibly_sensitive": false,
+    "id": "1322254868539678720",
+    "conversation_id": "1322245827344142338"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 25,
+          "end": 39,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 40,
+          "end": 54,
+          "username": "studio_hungry"
+        }
+      ]
+    },
+    "author_id": "4897735439",
+    "in_reply_to_user_id": "4897735439",
+    "created_at": "2020-10-30T19:01:11.000Z",
+    "source": "Twitter for Android",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322247364942438400"
+      }
+    ],
+    "text": "Better copy in the Bois! @PaulieScanlon @studio_hungry",
+    "possibly_sensitive": false,
+    "id": "1322252223980687361",
+    "conversation_id": "1322245827344142338"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 5,
+          "username": "raae"
+        }
+      ],
+      "urls": [
+        {
+          "start": 110,
+          "end": 133,
+          "url": "https://t.co/fZ8MsTyF2e",
+          "expanded_url": "https://twitter.com/PaulieScanlon/status/1322251709566124034/photo/1",
+          "display_url": "pic.twitter.com/fZ8MsTyF2e"
+        }
+      ]
+    },
+    "author_id": "470012453",
+    "in_reply_to_user_id": "4092141",
+    "created_at": "2020-10-30T18:59:08.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322250356034801664"
+      }
+    ],
+    "text": "@raae 22mm of cold hard steel. It was deliberate so I could get the GripIt thing in there but alas, I failed! https://t.co/fZ8MsTyF2e",
+    "possibly_sensitive": false,
+    "id": "1322251709566124034",
+    "conversation_id": "1322169880054026240"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        }
+      ]
+    },
+    "author_id": "4092141",
+    "in_reply_to_user_id": "4092141",
+    "created_at": "2020-10-30T18:53:45.000Z",
+    "source": "Twitter for Android",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322183404197203969"
+      }
+    ],
+    "text": "@PaulieScanlon But what did you use here? That's a pretty nasty hole...",
+    "possibly_sensitive": false,
+    "id": "1322250356034801664",
+    "conversation_id": "1322169880054026240"
+  },
+  {
+    "author_id": "4897735439",
+    "in_reply_to_user_id": "4897735439",
+    "created_at": "2020-10-30T18:41:52.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 99,
+          "end": 122,
+          "url": "https://t.co/tGgTNPQdz6",
+          "expanded_url": "https://github.com/PaulieScanlon/mdx-embed",
+          "display_url": "github.com/PaulieScanlon/…",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1321049725542551553/f2jQuxR5?format=jpg&name=orig",
+              "width": 1080,
+              "height": 608
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1321049725542551553/f2jQuxR5?format=jpg&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "PaulieScanlon/mdx-embed",
+          "description": "Embed 3rd party media content in MDX - no import required 🧽 - PaulieScanlon/mdx-embed",
+          "unwound_url": "https://github.com/PaulieScanlon/mdx-embed"
+        }
+      ]
+    },
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 3,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322245827344142338"
+      }
+    ],
+    "text": "This is a real success story of Hacktober\n\n90+ issues all resolved \n\nFrom 0 to 94% code coverage!\n\nhttps://t.co/tGgTNPQdz6",
+    "possibly_sensitive": false,
+    "id": "1322247364942438400",
+    "conversation_id": "1322245827344142338"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 15,
+          "end": 20,
+          "username": "raae"
+        }
+      ]
+    },
+    "author_id": "1025494621164630016",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-10-30T17:54:54.000Z",
+    "source": "Twitter for Android",
+    "lang": "und",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322188922236133376"
+      }
+    ],
+    "text": "@PaulieScanlon @raae 😂",
+    "possibly_sensitive": false,
+    "id": "1322235545406349313",
+    "conversation_id": "1322169880054026240"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "spences10"
+        },
+        {
+          "start": 11,
+          "end": 24,
+          "username": "DThompsonDev"
+        },
+        {
+          "start": 25,
+          "end": 41,
+          "username": "TheGerardTaylor"
+        },
+        {
+          "start": 42,
+          "end": 53,
+          "username": "Chau_codes"
+        },
+        {
+          "start": 54,
+          "end": 70,
+          "username": "DigitalBlkHippy"
+        },
+        {
+          "start": 71,
+          "end": 86,
+          "username": "KassandraSanch"
+        },
+        {
+          "start": 87,
+          "end": 98,
+          "username": "Rahatcodes"
+        },
+        {
+          "start": 99,
+          "end": 111,
+          "username": "NehemiahKiv"
+        },
+        {
+          "start": 112,
+          "end": 125,
+          "username": "frontenddude"
+        },
+        {
+          "start": 126,
+          "end": 134,
+          "username": "joojaco"
+        },
+        {
+          "start": 135,
+          "end": 149,
+          "username": "adrian_twarog"
+        },
+        {
+          "start": 150,
+          "end": 161,
+          "username": "codeSTACKr"
+        },
+        {
+          "start": 162,
+          "end": 175,
+          "username": "TheJackForge"
+        },
+        {
+          "start": 176,
+          "end": 190,
+          "username": "graftoverflow"
+        },
+        {
+          "start": 191,
+          "end": 205,
+          "username": "PaulieScanlon"
+        }
+      ],
+      "urls": [
+        {
+          "start": 206,
+          "end": 229,
+          "url": "https://t.co/wJlI9U0bpP",
+          "expanded_url": "https://twitter.com/studio_hungry/status/1322228789808713729/photo/1",
+          "display_url": "pic.twitter.com/wJlI9U0bpP"
+        }
+      ]
+    },
+    "author_id": "1025494621164630016",
+    "in_reply_to_user_id": "4897735439",
+    "created_at": "2020-10-30T17:28:03.000Z",
+    "source": "Twitter for Android",
+    "lang": "und",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 3,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322225519660851200"
+      }
+    ],
+    "text": "@spences10 @DThompsonDev @TheGerardTaylor @Chau_codes @DigitalBlkHippy @KassandraSanch @Rahatcodes @NehemiahKiv @frontenddude @joojaco @adrian_twarog @codeSTACKr @TheJackForge @graftoverflow @PaulieScanlon https://t.co/wJlI9U0bpP",
+    "possibly_sensitive": false,
+    "id": "1322228789808713729",
+    "conversation_id": "1322216684103622657"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "DThompsonDev"
+        },
+        {
+          "start": 14,
+          "end": 30,
+          "username": "TheGerardTaylor"
+        },
+        {
+          "start": 31,
+          "end": 42,
+          "username": "Chau_codes"
+        },
+        {
+          "start": 43,
+          "end": 59,
+          "username": "DigitalBlkHippy"
+        },
+        {
+          "start": 60,
+          "end": 75,
+          "username": "KassandraSanch"
+        },
+        {
+          "start": 76,
+          "end": 87,
+          "username": "Rahatcodes"
+        },
+        {
+          "start": 88,
+          "end": 100,
+          "username": "NehemiahKiv"
+        },
+        {
+          "start": 101,
+          "end": 114,
+          "username": "frontenddude"
+        },
+        {
+          "start": 115,
+          "end": 123,
+          "username": "joojaco"
+        },
+        {
+          "start": 124,
+          "end": 138,
+          "username": "adrian_twarog"
+        },
+        {
+          "start": 139,
+          "end": 150,
+          "username": "codeSTACKr"
+        },
+        {
+          "start": 151,
+          "end": 164,
+          "username": "TheJackForge"
+        },
+        {
+          "start": 165,
+          "end": 179,
+          "username": "graftoverflow"
+        },
+        {
+          "start": 190,
+          "end": 204,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 209,
+          "end": 223,
+          "username": "studio_hungry"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 279,
+          "end": 282,
+          "probability": 0.9318,
+          "type": "Person",
+          "normalized_text": "Paul"
+        },
+        {
+          "start": 313,
+          "end": 321,
+          "probability": 0.3402,
+          "type": "Product",
+          "normalized_text": "MDX Embed"
+        }
+      ]
+    },
+    "author_id": "4897735439",
+    "in_reply_to_user_id": "1085477171055996928",
+    "created_at": "2020-10-30T17:15:04.000Z",
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 4,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322216684103622657"
+      }
+    ],
+    "text": "@DThompsonDev @TheGerardTaylor @Chau_codes @DigitalBlkHippy @KassandraSanch @Rahatcodes @NehemiahKiv @frontenddude @joojaco @adrian_twarog @codeSTACKr @TheJackForge @graftoverflow Shout out @PaulieScanlon and @studio_hungry \n\nRich is killing it with animations at the moment and Paul has had a stellar month with MDX Embed and Hacktoberfest\n\nSrs, if you like MDX or want to know more they're good follows!!",
+    "possibly_sensitive": false,
+    "id": "1322225519660851200",
+    "conversation_id": "1322216684103622657"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 15,
+          "end": 24,
+          "username": "nohinder"
+        },
+        {
+          "start": 25,
+          "end": 30,
+          "username": "raae"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 95,
+          "end": 98,
+          "probability": 0.8549,
+          "type": "Person",
+          "normalized_text": "Paul"
+        }
+      ]
+    },
+    "author_id": "4897735439",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-10-30T15:44:03.000Z",
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322197912869285890"
+      }
+    ],
+    "text": "@PaulieScanlon @nohinder @raae Just tweet pictures of you flexing, literally, in your tank top Paul 👍",
+    "possibly_sensitive": false,
+    "id": "1322202617003520000",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "65",
+          "name": "Interests and Hobbies Vertical",
+          "description": "Top level interests and hobbies groupings, like Food or Travel"
+        },
+        "entity": {
+          "id": "844603730221707264",
+          "name": "Fashion",
+          "description": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "id": "66",
+          "name": "Interests and Hobbies Category",
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+        },
+        "entity": {
+          "id": "844604232737087488",
+          "name": "General Fashion",
+          "description": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "id": "67",
+          "name": "Interests and Hobbies",
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+        },
+        "entity": {
+          "id": "849641708258074624",
+          "name": "Tops",
+          "description": "Tops"
+        }
+      }
+    ],
+    "conversation_id": "1322169880054026240"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 15,
+          "end": 25,
+          "username": "spences10"
+        },
+        {
+          "start": 26,
+          "end": 31,
+          "username": "raae"
+        }
+      ]
+    },
+    "author_id": "2412564272",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-10-30T15:27:03.000Z",
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322197912869285890"
+      }
+    ],
+    "text": "@PaulieScanlon @spences10 @raae well, who is?",
+    "possibly_sensitive": false,
+    "id": "1322198337756581888",
+    "conversation_id": "1322169880054026240"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "spences10"
+        },
+        {
+          "start": 11,
+          "end": 25,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 26,
+          "end": 31,
+          "username": "raae"
+        }
+      ]
+    },
+    "author_id": "2412564272",
+    "in_reply_to_user_id": "4897735439",
+    "created_at": "2020-10-30T15:23:23.000Z",
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322196362797207558"
+      }
+    ],
+    "text": "@spences10 @PaulieScanlon @raae Difficult life indeed 🤣",
+    "possibly_sensitive": false,
+    "id": "1322197414384701441",
+    "conversation_id": "1322169880054026240"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 15,
+          "end": 20,
+          "username": "raae"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 82,
+          "end": 91,
+          "probability": 0.6408,
+          "type": "Place",
+          "normalized_text": "Suez Canal"
+        }
+      ]
+    },
+    "author_id": "4897735439",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-10-30T15:19:12.000Z",
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322195888903757830"
+      }
+    ],
+    "text": "@PaulieScanlon @raae Ha! I just about got past \"salvaged from a oil tanker in the Suez Canal\" 😂",
+    "possibly_sensitive": false,
+    "id": "1322196362797207558",
+    "conversation_id": "1322169880054026240"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 15,
+          "end": 20,
+          "username": "raae"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 59,
+          "end": 73,
+          "probability": 0.7667,
+          "type": "Person",
+          "normalized_text": "Paul Flexington"
+        },
+        {
+          "start": 102,
+          "end": 110,
+          "probability": 0.6103,
+          "type": "Place",
+          "normalized_text": "Flex Mews"
+        }
+      ]
+    },
+    "author_id": "4897735439",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-10-30T15:16:24.000Z",
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322188922236133376"
+      }
+    ],
+    "text": "@PaulieScanlon @raae SuperFLEX!\n\nHow do you do? My name is Paul Flexington III of Flex Town I live in Flex Mews",
+    "possibly_sensitive": false,
+    "id": "1322195658107949058",
+    "conversation_id": "1322169880054026240"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 5,
+          "username": "raae"
+        }
+      ],
+      "urls": [
+        {
+          "start": 189,
+          "end": 212,
+          "url": "https://t.co/wQwUrRwWcR",
+          "expanded_url": "https://twitter.com/PaulieScanlon/status/1322188922236133376/photo/1",
+          "display_url": "pic.twitter.com/wQwUrRwWcR"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 143,
+          "end": 152,
+          "probability": 0.4735,
+          "type": "Place",
+          "normalized_text": "Suez Canal"
+        }
+      ]
+    },
+    "author_id": "470012453",
+    "in_reply_to_user_id": "4092141",
+    "created_at": "2020-10-30T14:49:38.000Z",
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322183404197203969"
+      }
+    ],
+    "text": "@raae Ty for the tip. Not sure stickers will cut it though. I'm trying to hang 15kg porthole mirror that was salvaged from a oil tanker in the Suez Canal... because i'm a tedious hipster 🕺 https://t.co/wQwUrRwWcR",
+    "possibly_sensitive": false,
+    "id": "1322188922236133376",
+    "conversation_id": "1322169880054026240"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        }
+      ]
+    },
+    "author_id": "4092141",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-10-30T14:27:43.000Z",
+    "source": "Twitter for Android",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322169880054026240"
+      }
+    ],
+    "text": "@PaulieScanlon I know! For smaller things the wall stickers from 3M works really well. So you can skip getting holes all over your wall from a simple gallery wall. If you are getting one of those...",
+    "possibly_sensitive": false,
+    "id": "1322183404197203969",
+    "conversation_id": "1322169880054026240"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        }
+      ]
+    },
+    "author_id": "4897735439",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-10-30T13:38:23.000Z",
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322169880054026240"
+      }
+    ],
+    "text": "@PaulieScanlon whoops!",
+    "possibly_sensitive": false,
+    "id": "1322170988499472389",
+    "conversation_id": "1322169880054026240"
+  },
+  {
+    "author_id": "470012453",
+    "created_at": "2020-10-30T13:33:58.000Z",
+    "entities": {
+      "urls": [
+        {
+          "start": 59,
+          "end": 82,
+          "url": "https://t.co/DQnzY6EXNJ",
+          "expanded_url": "https://twitter.com/PaulieScanlon/status/1322169880054026240/photo/1",
+          "display_url": "pic.twitter.com/DQnzY6EXNJ"
+        }
+      ]
+    },
+    "source": "Twitter for iPhone",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 2,
+      "like_count": 3,
+      "quote_count": 0
+    },
+    "text": "I really dislike engineering IRL.\n\ngit reset wall - - hard https://t.co/DQnzY6EXNJ",
+    "possibly_sensitive": false,
+    "id": "1322169880054026240",
+    "conversation_id": "1322169880054026240"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "spences10"
+        },
+        {
+          "start": 11,
+          "end": 25,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 26,
+          "end": 36,
+          "username": "themarcba"
+        },
+        {
+          "start": 37,
+          "end": 51,
+          "username": "studio_hungry"
+        },
+        {
+          "start": 52,
+          "end": 64,
+          "username": "jamesqquick"
+        },
+        {
+          "start": 65,
+          "end": 77,
+          "username": "catalinmpit"
+        },
+        {
+          "start": 78,
+          "end": 92,
+          "username": "florinpop1705"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 117,
+          "end": 121,
+          "probability": 0.9724,
+          "type": "Person",
+          "normalized_text": "Scott"
+        },
+        {
+          "start": 130,
+          "end": 133,
+          "probability": 0.5278,
+          "type": "Other",
+          "normalized_text": "lord"
+        }
+      ]
+    },
+    "author_id": "426074439",
+    "in_reply_to_user_id": "4897735439",
+    "created_at": "2020-10-30T12:58:27.000Z",
+    "source": "Twitter Web App",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322147954069831681"
+      }
+    ],
+    "text": "@spences10 @PaulieScanlon @themarcba @studio_hungry @jamesqquick @catalinmpit @florinpop1705 Happy to be your friend Scott! \n\n... lord knows you need them 😉",
+    "possibly_sensitive": false,
+    "id": "1322160941522452487",
+    "conversation_id": "1322147954069831681"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "spences10"
+        },
+        {
+          "start": 11,
+          "end": 25,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 26,
+          "end": 36,
+          "username": "themarcba"
+        },
+        {
+          "start": 37,
+          "end": 51,
+          "username": "studio_hungry"
+        },
+        {
+          "start": 52,
+          "end": 66,
+          "username": "dan_spratling"
+        },
+        {
+          "start": 67,
+          "end": 79,
+          "username": "catalinmpit"
+        },
+        {
+          "start": 80,
+          "end": 94,
+          "username": "florinpop1705"
+        }
+      ]
+    },
+    "author_id": "1581345950",
+    "in_reply_to_user_id": "4897735439",
+    "created_at": "2020-10-30T12:56:18.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "und",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322147954069831681"
+      }
+    ],
+    "text": "@spences10 @PaulieScanlon @themarcba @studio_hungry @dan_spratling @catalinmpit @florinpop1705 Yayyyyy!",
+    "possibly_sensitive": false,
+    "id": "1322160399358316545",
+    "conversation_id": "1322147954069831681"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 14,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 15,
+          "end": 25,
+          "username": "spences10"
+        },
+        {
+          "start": 26,
+          "end": 40,
+          "username": "studio_hungry"
+        },
+        {
+          "start": 41,
+          "end": 53,
+          "username": "jamesqquick"
+        },
+        {
+          "start": 54,
+          "end": 68,
+          "username": "dan_spratling"
+        },
+        {
+          "start": 69,
+          "end": 81,
+          "username": "catalinmpit"
+        },
+        {
+          "start": 82,
+          "end": 96,
+          "username": "florinpop1705"
+        }
+      ]
+    },
+    "author_id": "129553608",
+    "in_reply_to_user_id": "470012453",
+    "created_at": "2020-10-30T12:34:46.000Z",
+    "source": "Twitter for iPhone",
+    "lang": "und",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322153895758581763"
+      }
+    ],
+    "text": "@PaulieScanlon @spences10 @studio_hungry @jamesqquick @dan_spratling @catalinmpit @florinpop1705 😑",
+    "possibly_sensitive": false,
+    "id": "1322154978799136770",
+    "conversation_id": "1322147954069831681"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "Sarve___tanvesh"
+        },
+        {
+          "start": 17,
+          "end": 31,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 32,
+          "end": 42,
+          "username": "themarcba"
+        },
+        {
+          "start": 43,
+          "end": 57,
+          "username": "studio_hungry"
+        },
+        {
+          "start": 58,
+          "end": 70,
+          "username": "jamesqquick"
+        },
+        {
+          "start": 71,
+          "end": 85,
+          "username": "dan_spratling"
+        },
+        {
+          "start": 86,
+          "end": 98,
+          "username": "catalinmpit"
+        },
+        {
+          "start": 99,
+          "end": 113,
+          "username": "florinpop1705"
+        }
+      ]
+    },
+    "author_id": "4897735439",
+    "in_reply_to_user_id": "870914625918849024",
+    "created_at": "2020-10-30T12:13:04.000Z",
+    "source": "Twitter Web App",
+    "lang": "und",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322149039349981184"
+      }
+    ],
+    "text": "@Sarve___tanvesh @PaulieScanlon @themarcba @studio_hungry @jamesqquick @dan_spratling @catalinmpit @florinpop1705 🤗",
+    "possibly_sensitive": false,
+    "id": "1322149519505719298",
+    "conversation_id": "1322147954069831681"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 10,
+          "username": "spences10"
+        },
+        {
+          "start": 11,
+          "end": 25,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 26,
+          "end": 36,
+          "username": "themarcba"
+        },
+        {
+          "start": 37,
+          "end": 51,
+          "username": "studio_hungry"
+        },
+        {
+          "start": 52,
+          "end": 64,
+          "username": "jamesqquick"
+        },
+        {
+          "start": 65,
+          "end": 79,
+          "username": "dan_spratling"
+        },
+        {
+          "start": 80,
+          "end": 92,
+          "username": "catalinmpit"
+        },
+        {
+          "start": 93,
+          "end": 107,
+          "username": "florinpop1705"
+        }
+      ]
+    },
+    "author_id": "870914625918849024",
+    "in_reply_to_user_id": "4897735439",
+    "created_at": "2020-10-30T12:11:09.000Z",
+    "source": "Twitter Web App",
+    "lang": "und",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 0,
+      "quote_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1322147954069831681"
+      }
+    ],
+    "text": "@spences10 @PaulieScanlon @themarcba @studio_hungry @jamesqquick @dan_spratling @catalinmpit @florinpop1705 😢",
+    "possibly_sensitive": false,
+    "id": "1322149039349981184",
+    "conversation_id": "1322147954069831681"
+  },
+  {
+    "entities": {
+      "mentions": [
+        {
+          "start": 17,
+          "end": 31,
+          "username": "PaulieScanlon"
+        },
+        {
+          "start": 34,
+          "end": 44,
+          "username": "themarcba"
+        },
+        {
+          "start": 47,
+          "end": 61,
+          "username": "studio_hungry"
+        },
+        {
+          "start": 64,
+          "end": 76,
+          "username": "jamesqquick"
+        },
+        {
+          "start": 79,
+          "end": 93,
+          "username": "dan_spratling"
+        },
+        {
+          "start": 96,
+          "end": 108,
+          "username": "catalinmpit"
+        },
+        {
+          "start": 111,
+          "end": 125,
+          "username": "florinpop1705"
+        }
+      ],
+      "urls": [
+        {
+          "start": 130,
+          "end": 153,
+          "url": "https://t.co/fqG5nDXu06",
+          "expanded_url": "https://affinitweet.com/top-friends",
+          "display_url": "affinitweet.com/top-friends",
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/news_img/1323363753203699712/p2D0V1nV?format=png&name=orig",
+              "width": 1800,
+              "height": 1011
+            },
+            {
+              "url": "https://pbs.twimg.com/news_img/1323363753203699712/p2D0V1nV?format=png&name=150x150",
+              "width": 150,
+              "height": 150
+            }
+          ],
+          "status": 200,
+          "title": "Top Friends • Affinitweet",
+          "description": "Discover your best Twitter friends of late! 🤗 The Top Friends allows you to know who your best friends are on Twitter. We establish a ranking by analyzing the information sent and received by your account. Then we count, add and sort them to generate your Top Friends!",
+          "unwound_url": "https://affinitweet.com/top-friends"
+        },
+        {
+          "start": 154,
+          "end": 177,
+          "url": "https://t.co/exLvOO6LyA",
+          "expanded_url": "https://twitter.com/spences10/status/1322147954069831681/photo/1",
+          "display_url": "pic.twitter.com/exLvOO6LyA"
+        }
+      ]
+    },
+    "author_id": "4897735439",
+    "created_at": "2020-10-30T12:06:51.000Z",
+    "source": "Affinitweet.com",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 4,
+      "like_count": 12,
+      "quote_count": 0
+    },
+    "text": "✨ Top Friends\n\n🥇 @PaulieScanlon\n🥈 @themarcba\n🥉 @studio_hungry\n🏅 @jamesqquick\n🏅 @dan_spratling\n🏅 @catalinmpit\n🏅 @florinpop1705\n\n➡️ https://t.co/fqG5nDXu06 https://t.co/exLvOO6LyA",
+    "possibly_sensitive": false,
+    "id": "1322147954069831681",
+    "conversation_id": "1322147954069831681"
+  }
+]
