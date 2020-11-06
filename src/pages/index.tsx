@@ -6,6 +6,8 @@ const IndexPage: FunctionComponent = () => {
   useEffect(() => {
     fetch(`${process.env.GATSBY_API_URL}`, {
       mode: 'no-cors',
+      method: 'POST',
+      body: JSON.stringify({ userNameA: 'GatsbyJS', userNameB: '' }),
     })
       .then((response) => response.text())
       .then((data) => {

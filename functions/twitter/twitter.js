@@ -9,8 +9,10 @@ const client = new Twitter({
 })
 
 exports.handler = async (event, context, callback) => {
+  console.log('event.body.userNameA: ', JSON.parse(event.body).userNameA)
+
   const { data, errors } = await client.get('tweets/search/recent', {
-    query: 'PaulieScanlon',
+    query: JSON.parse(event.body).userNameA,
     max_results: '100',
     tweet: {
       fields:
