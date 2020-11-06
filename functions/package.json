@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "apollo-server-lambda": "^2.4.8",
+    "date-fns": "^2.16.1",
     "twitter-v2": "^0.1.2"
   }
 }

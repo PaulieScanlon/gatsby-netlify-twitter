@@ -1,4 +1,5 @@
 const Twitter = require('twitter-v2')
+const { transformSearch } = require('../utils')
 
 const client = new Twitter({
   consumer_key: process.env.TWITTER_CONSUMER_KEY,
@@ -22,6 +23,6 @@ exports.handler = async (event, context, callback) => {
       'Access-Control-Allow-Origin': '*',
     },
     statusCode: 200,
-    body: `${JSON.stringify(data, null, 2)}`,
+    body: `${JSON.stringify(transformSearch(data), null, 2)}`,
   })
 }

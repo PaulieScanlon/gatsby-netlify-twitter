@@ -1,4 +1,5 @@
 const mockResponse = require('./mock-response.json')
+const { transformSearch } = require('../utils')
 
 exports.handler = (event, context, callback) => {
   callback(null, {
@@ -6,6 +7,6 @@ exports.handler = (event, context, callback) => {
       'Access-Control-Allow-Origin': '*',
     },
     statusCode: 200,
-    body: `${JSON.stringify(mockResponse, null, 2)}`,
+    body: `${JSON.stringify(transformSearch(mockResponse), null, 2)}`,
   })
 }

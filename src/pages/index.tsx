@@ -3,8 +3,6 @@ import React, { FunctionComponent, useEffect, useState } from 'react'
 const IndexPage: FunctionComponent = () => {
   const [data, setData] = useState('')
 
-  console.log('process.env.GATSBY_API_URL:', process.env.GATSBY_API_URL)
-
   useEffect(() => {
     fetch(`${process.env.GATSBY_API_URL}`, {
       mode: 'no-cors',
