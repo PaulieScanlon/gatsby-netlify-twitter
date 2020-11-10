@@ -13,7 +13,7 @@ const client = new Twitter({
 
 exports.handler = async (event, context, callback) => {
   const { data, meta, includes, errors } = await client.get('tweets/search/recent', {
-    query: JSON.parse(event.body).userNameA,
+    query: process.env.GATSBY_TWITTER_USERNAME,
     max_results: '100',
     tweet: {
       fields:
@@ -32,9 +32,7 @@ exports.handler = async (event, context, callback) => {
     statusCode: 200,
     body: `${JSON.stringify(
       {
-        data: transformSearch(data),
-        meta,
-        includes,
+        data: transformSearch(data, includes),
       },
       null,
       2,
