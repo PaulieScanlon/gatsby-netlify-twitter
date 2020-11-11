@@ -1,15 +1,4 @@
-const Twitter = require('twitter-v2')
-const { transformSearch, getMentionCount, getUrlCount, getDateRange } = require('../utils')
-
-// API Docs
-// https://developer.twitter.com/en/docs/twitter-api/tweets/search/api-reference/get-tweets-search-recent
-
-const client = new Twitter({
-  consumer_key: process.env.TWITTER_CONSUMER_KEY,
-  consumer_secret: process.env.TWITTER_CONSUMER_KEY_SECRET,
-  access_token: process.env.TWITTER_ACCESS_TOKEN,
-  access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET,
-})
+const { client, transformSearch, getMentionCount, getUrlCount, getDateRange } = require('../utils')
 
 exports.handler = async (event, context, callback) => {
   const { data, meta, includes, errors } = await client.get('tweets/search/recent', {
