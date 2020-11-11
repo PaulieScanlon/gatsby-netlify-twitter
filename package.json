@@ -1,7 +1,7 @@
 {
-  "name": "brandcamp",
+  "name": "gatsby-netlify-twitter-app",
   "version": "1.0.0",
-  "description": "My new idea thingy",
+  "description": "A demo application with a Netlify function",
   "main": "index.js",
   "scripts": {
     "develop": "gatsby develop",

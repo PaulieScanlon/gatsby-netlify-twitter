@@ -112,6 +112,5 @@ public
 # Mac stuff ?
 .DS_Store
 
-
 .env.development
 .env.production
