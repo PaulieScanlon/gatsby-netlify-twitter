@@ -13,7 +13,7 @@ const IndexPage: FunctionComponent = () => {
   const [isLoading, setIsLoading] = useState(true)
 
   useEffect(() => {
-    fetch(`${process.env.GATSBY_API_URL}`, {
+    fetch(`${process.env.GATSBY_API_URL}/recent/search`, {
       mode: 'no-cors',
       method: 'GET',
     })
