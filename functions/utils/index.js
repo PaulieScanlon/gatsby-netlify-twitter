@@ -1,4 +1,6 @@
-const { format, parseISO } = require('date-fns')
+const { format, differenceInCalendarDays, parseISO } = require('date-fns')
+
+const DATE_FORMAT = 'MMM dd yyy'
 
 function getMediaUrl(attachments, media) {
   if (attachments && attachments.media_keys.length) {
@@ -22,18 +24,45 @@ function getMediaUrl(attachments, media) {
 
 module.exports = {
   transformSearch: function (data, includes) {
-    return data
-      .filter((data) => data.author_id === process.env.GATSBY_AUTHOR_ID)
-      .map((data) => {
-        const { created_at, attachments, possibly_sensitive, public_metrics, text } = data
-        return {
-          _special: {
-            my_username: process.env.GATSBY_TWITTER_USERNAME,
-            formatted_date: format(parseISO(created_at), 'MMM dd yyy'),
-            image_src: getMediaUrl(attachments, includes.media),
-          },
-          ...data,
-        }
-      })
+    return (
+      data
+        // .filter((data) => data.author_id === process.env.GATSBY_AUTHOR_ID)
+        .map((data) => {
+          const { created_at, attachments, possibly_sensitive, public_metrics, text } = data
+          return {
+            _special: {
+              my_username: process.env.GATSBY_TWITTER_USERNAME,
+              my_author_id: process.env.GATSBY_AUTHOR_ID,
+              formatted_date: format(parseISO(created_at), DATE_FORMAT),
+              image_src: getMediaUrl(attachments, includes.media),
+            },
+            ...data,
+          }
+        })
+    )
+  },
+  getMentionCount: function (data) {
+    return data.reduce((items, item) => {
+      let tempCount = item.entities && item.entities.mentions ? item.entities.mentions.length : 0
+      return (items += tempCount)
+    }, 0)
+  },
+  getUrlCount: function (data) {
+    return data.reduce((items, item) => {
+      let tempCount = item.entities && item.entities.urls ? item.entities.urls.length : 0
+
+      return (items += tempCount)
+    }, 0)
+  },
+  getDateRange: function (data) {
+    const start = parseISO(data[0].created_at)
+    const end = parseISO(data[data.length - 1].created_at)
+    console.log('start: ', start)
+
+    return {
+      start: format(start, DATE_FORMAT),
+      end: format(end, DATE_FORMAT),
+      days_between: differenceInCalendarDays(start, end),
+    }
   },
 }

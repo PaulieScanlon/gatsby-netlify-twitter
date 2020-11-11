@@ -1,5 +1,5 @@
 const Twitter = require('twitter-v2')
-const { transformSearch } = require('../utils')
+const { transformSearch, getMentionCount, getUrlCount, getDateRange } = require('../utils')
 
 // API Docs
 // https://developer.twitter.com/en/docs/twitter-api/tweets/search/api-reference/get-tweets-search-recent
@@ -33,6 +33,9 @@ exports.handler = async (event, context, callback) => {
     body: `${JSON.stringify(
       {
         data: transformSearch(data, includes),
+        mention_count: getMentionCount(data),
+        url_count: getUrlCount(data),
+        date_range: getDateRange(data),
       },
       null,
       2,
