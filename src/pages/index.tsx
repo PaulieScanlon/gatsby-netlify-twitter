@@ -36,55 +36,68 @@ const IndexPage: FunctionComponent = () => {
         ) : (
           <>
             {!hasError && !isLoading && response ? (
-              <Card>
-                <Grid sx={{ gap: 2 }}>
-                  <Grid sx={{ alignItems: 'center', gap: 2, gridTemplateColumns: 'auto 1fr' }}>
-                    <Image src={user.profile_image_url} sx={{ borderRadius: '50%' }} />
-                    <Box>
-                      <Heading as="h2">{user.name}</Heading>
-                      <Link href={`https://twitter.com/${user.username}`} target="_blank">{`@${user.username}`}</Link>
-                    </Box>
-                  </Grid>
+              <>
+                <Card>
+                  <Grid sx={{ gap: 3 }}>
+                    <Grid sx={{ alignItems: 'center', gap: 2, gridTemplateColumns: 'auto 1fr' }}>
+                      <Image src={user.profile_image_url} sx={{ borderRadius: '50%' }} />
+                      <Box>
+                        <Heading as="h2">{user.name}</Heading>
+                        <Link href={`https://twitter.com/${user.username}`} target="_blank">{`@${user.username}`}</Link>
+                      </Box>
+                    </Grid>
 
-                  <Text sx={{ fontStyle: 'italic' }}>{user.description}</Text>
+                    <Grid sx={{ gap: 1 }}>
+                      <Text>{user.description}</Text>
+                      <Link sx={{ color: 'secondary' }} href={user.entities.url.urls[0].expanded_url} target="_blank">
+                        {user.entities.url.urls[0].display_url}
+                      </Link>
+                    </Grid>
+                    <Grid sx={{ gap: 1 }}>
+                      <Grid sx={{ gap: 2, gridTemplateColumns: ['1fr', 'auto 1fr'] }}>
+                        <Text variant="small">
+                          Joined:{' '}
+                          <Text variant="small" as="span" sx={{ fontWeight: 'bold' }}>
+                            {format(parseISO(user.created_at), DATE_FORMAT)}
+                          </Text>
+                        </Text>
+                        <Text variant="small">
+                          Location:{' '}
+                          <Text variant="small" as="span" sx={{ fontWeight: 'bold' }}>
+                            {user.location}
+                          </Text>
+                        </Text>
+                      </Grid>
 
-                  <Grid sx={{ gap: 2, gridTemplateColumns: ['1fr', 'auto 1fr'] }}>
-                    <Text variant="small">
-                      Joined:{' '}
-                      <Text variant="small" as="span" sx={{ fontWeight: 'bold' }}>
-                        {format(parseISO(user.created_at), DATE_FORMAT)}
-                      </Text>
-                    </Text>
-                    <Text variant="small">
-                      Location:{' '}
-                      <Text variant="small" as="span" sx={{ fontWeight: 'bold' }}>
-                        {user.location}
-                      </Text>
-                    </Text>
+                      <Grid sx={{ gap: 2, gridTemplateColumns: ['1fr', 'auto auto 1fr'] }}>
+                        <Text variant="small">
+                          Following:{' '}
+                          <Text variant="small" as="span" sx={{ fontWeight: 'bold' }}>
+                            {user.public_metrics.following_count}
+                          </Text>
+                        </Text>
+                        <Text variant="small">
+                          Followers:{' '}
+                          <Text variant="small" as="span" sx={{ fontWeight: 'bold' }}>
+                            {user.public_metrics.followers_count}
+                          </Text>
+                        </Text>
+                        <Text variant="small">
+                          Total Tweets:{' '}
+                          <Text variant="small" as="span" sx={{ fontWeight: 'bold' }}>
+                            {user.public_metrics.tweet_count}
+                          </Text>
+                        </Text>
+                      </Grid>
+                    </Grid>
                   </Grid>
-
-                  <Grid sx={{ gap: 2, gridTemplateColumns: ['1fr', 'auto auto 1fr'] }}>
-                    <Text variant="small">
-                      Following:{' '}
-                      <Text variant="small" as="span" sx={{ fontWeight: 'bold' }}>
-                        {user.public_metrics.following_count}
-                      </Text>
-                    </Text>
-                    <Text variant="small">
-                      Followers:{' '}
-                      <Text variant="small" as="span" sx={{ fontWeight: 'bold' }}>
-                        {user.public_metrics.followers_count}
-                      </Text>
-                    </Text>
-                    <Text variant="small">
-                      Total Tweets:{' '}
-                      <Text variant="small" as="span" sx={{ fontWeight: 'bold' }}>
-                        {user.public_metrics.tweet_count}
-                      </Text>
-                    </Text>
-                  </Grid>
-                </Grid>
-              </Card>
+                </Card>
+                <Box as="pre" variant="styles.pre">
+                  <Box as="code" variant="styles.code">
+                    {JSON.stringify(user, null, 2)}
+                  </Box>
+                </Box>
+              </>
             ) : null}
           </>
         )}
