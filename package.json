@@ -32,7 +32,6 @@
   "homepage": "https://github.com/PaulieScanlon/brandcamp#readme",
   "dependencies": {
     "date-fns": "^2.16.1",
-    "dotenv": "^8.2.0",
     "gatsby": "^2.25.2",
     "gatsby-plugin-theme-ui": "^0.3.0",
     "react": "^17.0.1",
