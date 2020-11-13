@@ -1,10 +1,10 @@
-import React, { FunctionComponent, useEffect, useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import { format, parseISO } from 'date-fns'
 import { Container, Grid, Flex, Box, Image, Link, Heading, Text, Card, Spinner } from 'theme-ui'
 
 const DATE_FORMAT = 'MMM dd yyy'
 
-const IndexPage: FunctionComponent = () => {
+const IndexPage = () => {
   const [response, setResponse] = useState({ user: null })
   const [hasError, setHasError] = useState(false)
   const [isLoading, setIsLoading] = useState(true)
@@ -13,6 +13,7 @@ const IndexPage: FunctionComponent = () => {
     fetch(`${process.env.GATSBY_API_URL}/twitter-user`)
       .then((response) => response.text())
       .then((response) => {
+        console.log(JSON.parse(response))
         setResponse(JSON.parse(response))
         setIsLoading(false)
       })
@@ -94,7 +95,7 @@ const IndexPage: FunctionComponent = () => {
                 </Card>
                 <Box as="pre" variant="styles.pre">
                   <Box as="code" variant="styles.code">
-                    {JSON.stringify(user, null, 2)}
+                    {JSON.stringify(response.user, null, 2)}
                   </Box>
                 </Box>
               </>
@@ -107,9 +108,3 @@ const IndexPage: FunctionComponent = () => {
 }
 
 export default IndexPage
-
-{
-  /* <pre>
-<code>{JSON.stringify(user, null, 2)}</code>
-</pre>  */
-}
